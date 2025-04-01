@@ -1,0 +1,6 @@
+@TrabajoClases_HostAddress = http://localhost:5260
+
+GET {{TrabajoClases_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
